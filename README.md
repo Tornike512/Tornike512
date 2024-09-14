@@ -3,8 +3,6 @@
 
 - 📫 You can contact me here **torniketsagareishvili64@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tornike512&label=Profile%20views&color=0e75b6&style=flat" alt="tornike512" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tornike512" alt="tornike512" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
